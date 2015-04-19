@@ -1,5 +1,5 @@
 * Twittering Plug
-  Monkey patches for twittering-mode.
+  Monkey patches for [[http://emacswiki.org/emacs/TwitteringMode][twittering-mode]].
 
 ** Installation
    WIP.
