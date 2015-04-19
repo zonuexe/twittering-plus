@@ -1,0 +1,9 @@
+* Twittering Plug
+  Monkey patches for twittering-mode.
+
+** Installation
+   WIP.
+
+** Key binding
+   twittering-plus provides other twitter clients like key binding.
+   + [[https://sites.google.com/site/yorufukurou/][YoruFukurou]] =(twittering+tern-on-yorufukurou)=
